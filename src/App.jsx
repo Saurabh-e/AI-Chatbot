@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="flex flex-col h-screen bg-gray-100 dark:bg-gray-900">
       <header className="bg-white dark:bg-gray-800 shadow-md p-4 flex justify-between items-center">
-        <h1 className="text-xl font-bold text-gray-800 dark:text-white">Gemini Chatbot</h1>
+        <h1 className="text-xl font-bold text-gray-800 dark:text-white"> Chatbot</h1>
         <button
           onClick={toggleTheme}
           className="bg-gray-800 dark:bg-gray-50 text-white dark:text-gray-800 px-4 py-2 text-sm rounded-lg font-semibold"
